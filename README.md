@@ -1,4 +1,5 @@
 # Llamario 🦙
+![Capture](https://github.com/user-attachments/assets/0f1b0277-b930-4596-8274-a5491336ce7a)
 
 Llamario is an AI-powered web application that utilizes the Llama 3.2 11b and Llama 3-8b models for image processing and content generation. This application allows users to upload images and receive detailed descriptions, as well as generate content for social media based on user-defined topics.
 
