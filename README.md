@@ -39,7 +39,7 @@ To run this application locally, follow these steps:
    ```
 
 4. **Open in Browser**:
-   Navigate to `http://localhost:8501` in your web browser to view the application.
+   Navigate to `https://llamario.streamlit.app/` in your web browser to view the application.
 
 ## Usage
 
