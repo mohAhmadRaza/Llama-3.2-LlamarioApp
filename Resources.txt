@@ -1,0 +1,3 @@
+DemoApp : 
+Groq API : https://console.groq.com/
+Llama 3.2 Documentation : https://console.groq.com/docs/vision
